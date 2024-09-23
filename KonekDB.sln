@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KonekDB", "KonekDB\KonekDB.csproj", "{5B06967B-9245-49FD-AD71-7AB5DC2C453D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B06967B-9245-49FD-AD71-7AB5DC2C453D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B06967B-9245-49FD-AD71-7AB5DC2C453D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B06967B-9245-49FD-AD71-7AB5DC2C453D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B06967B-9245-49FD-AD71-7AB5DC2C453D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8127E91E-A276-4C08-8F03-5836D57EDF01}
+	EndGlobalSection
+EndGlobal
